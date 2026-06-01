@@ -31,30 +31,36 @@ Sou estudante de **Engenharia da Computação** e atuo como **Desenvolvedor Jún
   <img src="https://img.shields.io/badge/Jaspersoft-FF6F00?style=flat-square">
 </div>
 
-## 🚀 Projetos
+## 🚀 Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/JVissani/SolucaoClinicaTEA">ClinicaTEA</a></h3>
-      Sistema <b>desktop</b> para gestão de clínica especializada em TEA: pacientes, equipe multidisciplinar, agenda com verificação de conflitos e relatórios.
-      <br><br>
-      <code>C#</code> <code>WinForms</code> <code>SQL Server</code> <code>Dapper</code>
+      <a href="https://github.com/JVissani/SolucaoClinicaTEA">
+        <img src="https://raw.githubusercontent.com/JVissani/SolucaoClinicaTEA/main/SolucaoClinicaTEA/prints/3_02_dashboard.png" width="100%" alt="ClinicaTEA"/>
+      </a>
+      <h3 align="center">🧩 <a href="https://github.com/JVissani/SolucaoClinicaTEA">ClinicaTEA</a></h3>
+      <p>Sistema <b>desktop</b> para gestão de clínica especializada em <b>TEA</b>: pacientes, equipe multidisciplinar, agenda com verificação de conflitos, evolução de sessões e relatórios gerenciais.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+        <img src="https://img.shields.io/badge/Dapper-FF6C37?style=flat">
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏋️ <a href="https://github.com/JVissani/projeto-academia">Projeto Academia</a></h3>
-      Sistema <b>web</b> para gestão de academia com 3 perfis (admin, personal e aluno): fichas, anamnese e montagem de treinos.
-      <br><br>
-      <code>PHP</code> <code>MySQL</code> <code>JavaScript</code>
+      <a href="https://github.com/JVissani/projeto-academia">
+        <img src="https://raw.githubusercontent.com/JVissani/projeto-academia/main/prints/02-admin-dashboard.png" width="100%" alt="Projeto Academia"/>
+      </a>
+      <h3 align="center">🏋️ <a href="https://github.com/JVissani/projeto-academia">Projeto Academia</a></h3>
+      <p>Sistema <b>web</b> para gestão de academia com <b>3 perfis</b> (admin, personal e aluno): fichas de alunos, anamnese, catálogo de exercícios e montagem de treinos.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      </p>
     </td>
   </tr>
 </table>
-
-## 📊 GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JVissani&show_icons=true&theme=midnight-purple&hide_border=true" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVissani&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="langs"/>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E1065&height=110&section=footer" width="100%" alt="footer"/>
