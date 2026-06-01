@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,100:7C3AED&height=190&section=header&text=João%20Vitor%20Vissani&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20%7C%20Engenharia%20de%20Dados%20%7C%20ETL&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,100:7C3AED&height=190&section=header&text=João%20Vitor%20Vissani%20da%20Silva%20Siani&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20%7C%20Engenharia%20de%20Dados%20%7C%20ETL&descSize=18&descAlignY=62" width="100%" alt="header"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Desenvolvedor+J%C3%BAnior+na+BW+Sistemas;Engenharia+de+Dados+%26+processos+de+ETL;Migra%C3%A7%C3%A3o+de+dados+de+sistemas+de+sa%C3%BAde;Python+%E2%80%A2+SQL+Server+%E2%80%A2+Pentaho+%E2%80%A2+Groovy" alt="typing"/>
@@ -12,7 +12,7 @@
 ![ETL](https://img.shields.io/badge/ETL-6D28D9?style=flat-square)
 ![Migração de Dados](https://img.shields.io/badge/Migração_de_Dados-7C3AED?style=flat-square)
 
-Estudante de **Engenharia da Computação** e **Desenvolvedor Júnior** na **BW Sistemas** — empresa de software e consultoria para **gestão pública municipal**, parte do ecossistema de soluções da **[Betha Sistemas](https://www.betha.com.br/)**. Também já atuei como **Analista de Suporte Técnico**, com treinamentos e capacitações em sistemas de gestão pública.
+Estudante de **Engenharia da Computação** e **Desenvolvedor Júnior** na **BW Sistemas** — empresa de software e consultoria para **gestão pública municipal**, parte do ecossistema de soluções da **[Betha Sistemas](https://www.betha.com.br/)**. Também já atuei como **Analista de Suporte Técnico**, com **treinamentos e capacitações** nas áreas de **Saúde, Educação, Merenda Escolar e Biblioteca**.
 
 **🎯 Foco Atual:** Engenharia de Dados e processos de **ETL** — migração de informações de **sistemas de gestão de saúde** para plataformas em nuvem de diversos municípios, em larga escala. Stack do dia a dia: **Python** (Anaconda), **SQL Server (T-SQL)** via **Navicat**, **Pentaho Data Integration (Spoon)** e desenvolvimento de scripts e relatórios em **Groovy** com o **Jaspersoft Studio**.
 
