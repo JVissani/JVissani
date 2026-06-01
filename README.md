@@ -1,25 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0EA5E9&height=190&section=header&text=João%20Vitor%20Vissani&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20%7C%20Engenharia%20de%20Dados%20%7C%20ETL&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,100:7C3AED&height=190&section=header&text=João%20Vitor%20Vissani&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20%7C%20Engenharia%20de%20Dados%20%7C%20ETL&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=1F6FEB&center=true&vCenter=true&width=620&lines=Desenvolvedor+J%C3%BAnior+na+BW+Sistemas;Engenharia+de+Dados+%26+processos+de+ETL;Migra%C3%A7%C3%A3o+de+dados+da+Sa%C3%BAde+(e-SUS+%E2%86%92+nuvem);Python+%E2%80%A2+SQL+Server+%E2%80%A2+Pentaho+%E2%80%A2+Groovy" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Desenvolvedor+J%C3%BAnior+na+BW+Sistemas;Engenharia+de+Dados+%26+processos+de+ETL;Migra%C3%A7%C3%A3o+de+dados+de+sistemas+de+sa%C3%BAde;Python+%E2%80%A2+SQL+Server+%E2%80%A2+Pentaho+%E2%80%A2+Groovy" alt="typing"/>
 </div>
 
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Engenharia da Computação**
 - 🏢 **Desenvolvedor Júnior** na **BW Sistemas** — software e consultoria para **gestão pública municipal** (ecossistema **[Betha](https://www.betha.com.br/)**)
-- 🧱 Foco em **Engenharia de Dados**, **ETL** e **migração de dados em larga escala**
-- 🩺 Migro **profissionais e atendimentos médicos do e-SUS** para plataformas em nuvem de diversos municípios
-- 🧑‍🏫 Comecei como **Analista de Suporte Técnico** (1 ano), com **treinamentos e capacitações** nas áreas de **Saúde, Educação, Merenda Escolar e Biblioteca**
-
-## 🛠️ Como eu trabalho
-
-```text
-Python (Anaconda)  →  extração e automação dos dados
-SQL Server (T-SQL) →  consultas e procedures complexas (via Navicat)
-Pentaho / Spoon    →  orquestração e integração dos fluxos de ETL
-Groovy + Jaspersoft Studio  →  scripts e relatórios dos sistemas
-```
+- 🩺 Migro **informações de sistemas de gestão de saúde** para plataformas em nuvem de diversos municípios
+- 🧑‍🏫 Já atuei como **Analista de Suporte Técnico** em sistemas de gestão pública
 
 ## 🧰 Tecnologias
 
@@ -56,8 +46,8 @@ Groovy + Jaspersoft Studio  →  scripts e relatórios dos sistemas
 ## 📊 GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JVissani&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVissani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JVissani&show_icons=true&theme=midnight-purple&hide_border=true" alt="stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVissani&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="langs"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1F6FEB&height=110&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E1065&height=110&section=footer" width="100%" alt="footer"/>
