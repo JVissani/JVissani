@@ -12,11 +12,9 @@
 ![ETL](https://img.shields.io/badge/ETL-6D28D9?style=flat-square)
 ![Migração de Dados](https://img.shields.io/badge/Migração_de_Dados-7C3AED?style=flat-square)
 
-Sou estudante de **Engenharia da Computação** e atuo como **Desenvolvedor Júnior** na **BW Sistemas** — empresa de software e consultoria especializada em **gestão pública municipal**, parte do ecossistema de soluções da **[Betha Sistemas](https://www.betha.com.br/)**. Anteriormente, atuei como **Analista de Suporte Técnico**, realizando **treinamentos e capacitações** para usuários de sistemas de gestão pública.
+Estudante de **Engenharia da Computação** e **Desenvolvedor Júnior** na **BW Sistemas** — empresa de software e consultoria para **gestão pública municipal**, parte do ecossistema de soluções da **[Betha Sistemas](https://www.betha.com.br/)**. Também já atuei como **Analista de Suporte Técnico**, com treinamentos e capacitações em sistemas de gestão pública.
 
-**🎯 Foco Atual:** Minha principal frente de atuação está na **Engenharia de Dados** e na execução de processos de **ETL**. Trabalho na **migração de informações de sistemas de gestão de saúde** para plataformas em nuvem de diversos municípios, construindo scripts de migração em **larga escala**. Para isso, utilizo **Python** (ambiente **Anaconda**), desenvolvo consultas e *procedures* complexas em **SQL Server (T-SQL)** manipuladas via **Navicat**, e faço a orquestração e integração dos fluxos com o **Pentaho Data Integration (Spoon)**. Também desenvolvo **scripts e relatórios** em **Groovy** utilizando o **Jaspersoft Studio**.
-
-**🧠 Habilidades:** Python · SQL Server (T-SQL) · ETL · Pentaho (Spoon) · Groovy · Navicat · Git · C# · PHP.
+**🎯 Foco Atual:** Engenharia de Dados e processos de **ETL** — migração de informações de **sistemas de gestão de saúde** para plataformas em nuvem de diversos municípios, em larga escala. Stack do dia a dia: **Python** (Anaconda), **SQL Server (T-SQL)** via **Navicat**, **Pentaho Data Integration (Spoon)** e desenvolvimento de scripts e relatórios em **Groovy** com o **Jaspersoft Studio**.
 
 ## 🧰 Tecnologias
 
@@ -36,29 +34,21 @@ Sou estudante de **Engenharia da Computação** e atuo como **Desenvolvedor Jún
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/JVissani/SolucaoClinicaTEA">
-        <img src="https://raw.githubusercontent.com/JVissani/SolucaoClinicaTEA/main/SolucaoClinicaTEA/prints/3_02_dashboard.png" width="100%" alt="ClinicaTEA"/>
-      </a>
-      <h3 align="center">🧩 <a href="https://github.com/JVissani/SolucaoClinicaTEA">ClinicaTEA</a></h3>
-      <p>Sistema <b>desktop</b> para gestão de clínica especializada em <b>TEA</b>: pacientes, equipe multidisciplinar, agenda com verificação de conflitos, evolução de sessões e relatórios gerenciais.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
-        <img src="https://img.shields.io/badge/Dapper-FF6C37?style=flat">
-      </p>
+      <h3>🧩 <a href="https://github.com/JVissani/SolucaoClinicaTEA">ClinicaTEA</a></h3>
+      Sistema <b>desktop</b> para gestão de clínica especializada em <b>TEA</b>: pacientes, equipe multidisciplinar, agenda com verificação de conflitos, evolução de sessões e relatórios gerenciais.
+      <br><br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+      <img src="https://img.shields.io/badge/Dapper-FF6C37?style=flat">
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/JVissani/projeto-academia">
-        <img src="https://raw.githubusercontent.com/JVissani/projeto-academia/main/prints/02-admin-dashboard.png" width="100%" alt="Projeto Academia"/>
-      </a>
-      <h3 align="center">🏋️ <a href="https://github.com/JVissani/projeto-academia">Projeto Academia</a></h3>
-      <p>Sistema <b>web</b> para gestão de academia com <b>3 perfis</b> (admin, personal e aluno): fichas de alunos, anamnese, catálogo de exercícios e montagem de treinos.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-      </p>
+      <h3>🏋️ <a href="https://github.com/JVissani/projeto-academia">Projeto Academia</a></h3>
+      Sistema <b>web</b> para gestão de academia com <b>3 perfis</b> (admin, personal e aluno): fichas de alunos, anamnese, catálogo de exercícios e montagem de treinos.
+      <br><br>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
     </td>
   </tr>
 </table>
