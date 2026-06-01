@@ -12,7 +12,7 @@
 ![ETL](https://img.shields.io/badge/ETL-6D28D9?style=flat-square)
 ![Migração de Dados](https://img.shields.io/badge/Migração_de_Dados-7C3AED?style=flat-square)
 
-Estudante de **Engenharia da Computação** e **Desenvolvedor Júnior** na **BW Sistemas** — empresa de software e consultoria para **gestão pública municipal**, parte do ecossistema de soluções da **[Betha Sistemas](https://www.betha.com.br/)**. Também já atuei como **Analista de Suporte Técnico**, com **treinamentos e capacitações** nas áreas de **Saúde, Educação, Merenda Escolar e Biblioteca**.
+Estudante de **Engenharia da Computação**, entusiasta por **tecnologia e inovação**, e **Desenvolvedor Júnior** na **BW Sistemas** — empresa de software e consultoria para **gestão pública municipal**, parte do ecossistema de soluções da **[Betha Sistemas](https://www.betha.com.br/)**. Também já atuei como **Analista de Suporte Técnico**, com **treinamentos e capacitações** nas áreas de **Saúde, Educação, Merenda Escolar e Biblioteca**.
 
 **🎯 Foco Atual:** Engenharia de Dados e processos de **ETL** — migração de informações de **sistemas de gestão de saúde** para plataformas em nuvem de diversos municípios, em larga escala. Stack do dia a dia: **Python** (Anaconda), **SQL Server (T-SQL)** via **Navicat**, **Pentaho Data Integration (Spoon)** e desenvolvimento de scripts e relatórios em **Groovy** com o **Jaspersoft Studio**.
 
@@ -52,5 +52,13 @@ Estudante de **Engenharia da Computação** e **Desenvolvedor Júnior** na **BW 
     </td>
   </tr>
 </table>
+
+## 📫 Contato
+
+<div align="center">
+  <a href="mailto:joaovitorvissani001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E1065&height=110&section=footer" width="100%" alt="footer"/>
