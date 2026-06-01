@@ -1,60 +1,63 @@
-<h1 align="center">👨‍💻 João Vitor Vissani</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0EA5E9&height=190&section=header&text=João%20Vitor%20Vissani&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20%7C%20Engenharia%20de%20Dados%20%7C%20ETL&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudante-1F2937?style=flat-square">
-  <img src="https://img.shields.io/badge/Desenvolvedor-1F2937?style=flat-square">
-  <img src="https://img.shields.io/badge/Engenharia_de_Dados-1F2937?style=flat-square">
-  <img src="https://img.shields.io/badge/ETL-1F2937?style=flat-square">
-  <img src="https://img.shields.io/badge/Migração_de_Dados-1F2937?style=flat-square">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=1F6FEB&center=true&vCenter=true&width=620&lines=Desenvolvedor+J%C3%BAnior+na+BW+Sistemas;Engenharia+de+Dados+%26+processos+de+ETL;Migra%C3%A7%C3%A3o+de+dados+da+Sa%C3%BAde+(e-SUS+%E2%86%92+nuvem);Python+%E2%80%A2+SQL+Server+%E2%80%A2+Pentaho+%E2%80%A2+Groovy" alt="typing"/>
+</div>
 
-Sou estudante de **Engenharia da Computação** e atuo como **Desenvolvedor Júnior** na **BW Sistemas**, empresa de desenvolvimento de software e consultoria especializada em **gestão pública municipal** — parte do ecossistema de soluções da **[Betha Sistemas](https://www.betha.com.br/)**, referência nacional no setor há mais de 27 anos, presente em centenas de municípios brasileiros.
+## 👨‍💻 Sobre mim
 
-**💼 Experiência:** Comecei minha trajetória atuando por **1 ano como Analista de Suporte Técnico**, prestando suporte, **treinamentos e capacitações** nos setores de **Saúde, Educação, Merenda Escolar e Biblioteca**, em sistemas de gestão pública municipal. Hoje atuo como **Desenvolvedor**, na frente de **Migração de Dados da área da Saúde**.
+- 🎓 Estudante de **Engenharia da Computação**
+- 🏢 **Desenvolvedor Júnior** na **BW Sistemas** — software e consultoria para **gestão pública municipal** (ecossistema **[Betha](https://www.betha.com.br/)**)
+- 🧱 Foco em **Engenharia de Dados**, **ETL** e **migração de dados em larga escala**
+- 🩺 Migro **profissionais e atendimentos médicos do e-SUS** para plataformas em nuvem de diversos municípios
+- 🧑‍🏫 Comecei como **Analista de Suporte Técnico** (1 ano), com **treinamentos e capacitações** nas áreas de **Saúde, Educação, Merenda Escolar e Biblioteca**
 
-**🎯 Foco Atual:** Minha principal frente de atuação está na **Engenharia de Dados** e na execução de processos de **ETL**. Trabalho na construção de scripts de **migração em larga escala** — como a transição de **milhares de registros de profissionais e atendimentos médicos do e-SUS** para plataformas em nuvem de diversos municípios. Para orquestrar e estruturar esses fluxos, utilizo **Python** (ambiente **Anaconda**), desenvolvo consultas e *procedures* complexas em **SQL Server (T-SQL)** manipuladas via **Navicat**, e gerencio a integração das informações com o **Pentaho Data Integration (Spoon)**. Também desenvolvo **scripts e relatórios** em **Groovy** utilizando o **Jaspersoft Studio**.
+## 🛠️ Como eu trabalho
 
-**🧠 Habilidades:** Python · SQL Server (T-SQL) · ETL · Pentaho (Spoon) · Groovy · Navicat · Git · C# · PHP.
+```text
+Python (Anaconda)  →  extração e automação dos dados
+SQL Server (T-SQL) →  consultas e procedures complexas (via Navicat)
+Pentaho / Spoon    →  orquestração e integração dos fluxos de ETL
+Groovy + Jaspersoft Studio  →  scripts e relatórios dos sistemas
+```
 
----
+## 🧰 Tecnologias
 
-### 🧰 Linguagens & Tecnologias
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,anaconda,cs,dotnet,php,mysql,js,html,css,git,github,vscode" alt="skills"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Pentaho_PDI-D9230F?style=flat-square">
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white">
+  <img src="https://img.shields.io/badge/Navicat-1B6AC6?style=flat-square">
+  <img src="https://img.shields.io/badge/Jaspersoft-FF6F00?style=flat-square">
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,cs,dotnet,php,mysql,js,html,css,git,github,vscode" alt="Tecnologias">
-</p>
+## 🚀 Projetos
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL">
-  <img src="https://img.shields.io/badge/Pentaho_PDI-D9230F?style=for-the-badge" alt="Pentaho">
-  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Groovy">
-  <img src="https://img.shields.io/badge/Navicat-1B6AC6?style=for-the-badge" alt="Navicat">
-  <img src="https://img.shields.io/badge/Jaspersoft_Studio-FF6F00?style=for-the-badge" alt="Jaspersoft">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/JVissani/SolucaoClinicaTEA">ClinicaTEA</a></h3>
+      Sistema <b>desktop</b> para gestão de clínica especializada em TEA: pacientes, equipe multidisciplinar, agenda com verificação de conflitos e relatórios.
+      <br><br>
+      <code>C#</code> <code>WinForms</code> <code>SQL Server</code> <code>Dapper</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏋️ <a href="https://github.com/JVissani/projeto-academia">Projeto Academia</a></h3>
+      Sistema <b>web</b> para gestão de academia com 3 perfis (admin, personal e aluno): fichas, anamnese e montagem de treinos.
+      <br><br>
+      <code>PHP</code> <code>MySQL</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
 
----
+## 📊 GitHub
 
-### 🚀 Projetos
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JVissani&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVissani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs"/>
+</div>
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🧩 **[ClinicaTEA](https://github.com/JVissani/SolucaoClinicaTEA)** | Sistema desktop para gestão de clínica especializada em TEA — pacientes, equipe multidisciplinar, agenda com verificação de conflitos e relatórios. | C# · WinForms · SQL Server · Dapper |
-| 🏋️ **[Projeto Academia](https://github.com/JVissani/projeto-academia)** | Sistema web para gestão de academia com 3 perfis (admin, personal e aluno), fichas, anamnese e montagem de treinos. | PHP · MySQL · JS |
-
----
-
-### 📊 Minhas estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JVissani&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVissani&layout=compact&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVissani&theme=tokyonight" alt="Sequência de contribuições">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JVissani&color=1F6FEB&style=flat-square&label=Visitas+no+perfil" alt="Visitas no perfil">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1F6FEB&height=110&section=footer" width="100%" alt="footer"/>
