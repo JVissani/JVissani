@@ -6,10 +6,17 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Engenharia da Computação**
-- 🏢 **Desenvolvedor Júnior** na **BW Sistemas** — software e consultoria para **gestão pública municipal** (ecossistema **[Betha](https://www.betha.com.br/)**)
-- 🩺 Migro **informações de sistemas de gestão de saúde** para plataformas em nuvem de diversos municípios
-- 🧑‍🏫 Já atuei como **Analista de Suporte Técnico** em sistemas de gestão pública
+![Estudante](https://img.shields.io/badge/Estudante-2E1065?style=flat-square)
+![Desenvolvedor](https://img.shields.io/badge/Desenvolvedor-4C1D95?style=flat-square)
+![Engenharia de Dados](https://img.shields.io/badge/Engenharia_de_Dados-5B21B6?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-6D28D9?style=flat-square)
+![Migração de Dados](https://img.shields.io/badge/Migração_de_Dados-7C3AED?style=flat-square)
+
+Sou estudante de **Engenharia da Computação** e atuo como **Desenvolvedor Júnior** na **BW Sistemas** — empresa de software e consultoria especializada em **gestão pública municipal**, parte do ecossistema de soluções da **[Betha Sistemas](https://www.betha.com.br/)**. Anteriormente, atuei como **Analista de Suporte Técnico**, realizando **treinamentos e capacitações** para usuários de sistemas de gestão pública.
+
+**🎯 Foco Atual:** Minha principal frente de atuação está na **Engenharia de Dados** e na execução de processos de **ETL**. Trabalho na **migração de informações de sistemas de gestão de saúde** para plataformas em nuvem de diversos municípios, construindo scripts de migração em **larga escala**. Para isso, utilizo **Python** (ambiente **Anaconda**), desenvolvo consultas e *procedures* complexas em **SQL Server (T-SQL)** manipuladas via **Navicat**, e faço a orquestração e integração dos fluxos com o **Pentaho Data Integration (Spoon)**. Também desenvolvo **scripts e relatórios** em **Groovy** utilizando o **Jaspersoft Studio**.
+
+**🧠 Habilidades:** Python · SQL Server (T-SQL) · ETL · Pentaho (Spoon) · Groovy · Navicat · Git · C# · PHP.
 
 ## 🧰 Tecnologias
 
